@@ -5,7 +5,11 @@ Repository for storing information related to CS 6140 Project
 Jim Morgan, Foad Namjoo, Ariel Oconitrillo
 
 ### Introduction
-“What's in a name? That which we call a rose by any other name would smell just as sweet.” These words, penned by William Shakespeare, convey how little Juliet’s family name means to Romeo, who would overlook their family feuding for romance’s sake. The quote can also apply to the use of language in Shakespeare’s plays. Foad, Jim, and Ariel have elected to dive deeper into the works of William Shakespeare and perform various data mining techniques on them.
+“What's in a name? That which we call a rose by any other name would smell just as sweet.” These words, penned by
+William Shakespeare, convey how little Juliet’s family name means to Romeo, who would overlook their family feuding for
+romance’s sake. The quote can also apply to the use of language in Shakespeare’s plays. Foad, Jim, and Ariel have
+elected to dive deeper into the works of William Shakespeare and perform various data mining techniques on them.
+
 
 ### Data Provenance
 We plan to use a dataset comprised of lines of dialogue and stage directions in Shakespeare’s plays. The dataset can be found on Kaggle’s website here.
