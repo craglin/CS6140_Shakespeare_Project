@@ -1,5 +1,8 @@
 # Data Collection
-Our origin data consists of a csv download from kaggle.com comprising 36 out of 38 plays written by William Shakespeare.
+*By Jim Morgan, Foad Namjoo, Ariel Oconitrillo*
+
+## Data Overview
+Our origin data consists of a csv download from [kaggle.com](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays) comprising 36 out of 38 plays written by William Shakespeare.
 Additional information about the plays was sourced from the Royal Shakespeare Company's [website]( https://www.rsc.org.uk/shakespeares-plays/histories-timeline/timeline).
 
 ## Data Structure
